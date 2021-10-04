@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactLogisticProject/static/css/main.cd0f6bb2.chunk.css",
+    "main.js": "/ReactLogisticProject/static/js/main.ec437fae.chunk.js",
+    "main.js.map": "/ReactLogisticProject/static/js/main.ec437fae.chunk.js.map",
+    "runtime-main.js": "/ReactLogisticProject/static/js/runtime-main.cc694613.js",
+    "runtime-main.js.map": "/ReactLogisticProject/static/js/runtime-main.cc694613.js.map",
+    "static/js/2.957757a1.chunk.js": "/ReactLogisticProject/static/js/2.957757a1.chunk.js",
+    "static/js/2.957757a1.chunk.js.map": "/ReactLogisticProject/static/js/2.957757a1.chunk.js.map",
+    "index.html": "/ReactLogisticProject/index.html",
+    "precache-manifest.dafc311cf9bd5a36f82f02806651decb.js": "/ReactLogisticProject/precache-manifest.dafc311cf9bd5a36f82f02806651decb.js",
+    "service-worker.js": "/ReactLogisticProject/service-worker.js",
+    "static/css/main.cd0f6bb2.chunk.css.map": "/ReactLogisticProject/static/css/main.cd0f6bb2.chunk.css.map",
+    "static/js/2.957757a1.chunk.js.LICENSE.txt": "/ReactLogisticProject/static/js/2.957757a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc694613.js",
+    "static/js/2.957757a1.chunk.js",
+    "static/css/main.cd0f6bb2.chunk.css",
+    "static/js/main.ec437fae.chunk.js"
+  ]
+}
